@@ -1,0 +1,10 @@
+strategy,complexity,total_tasks,tasks_correct,success_rate,avg_execution_time,avg_step_count,avg_tool_calls
+Plan-and-Solve,high,6,1,16.7,9.846166666666667,7.333333333333333,5.0
+Plan-and-Solve,low,6,5,83.3,3.892,3.1666666666666665,1.0
+Plan-and-Solve,medium,6,5,83.3,6.655,5.333333333333333,3.0
+ReAct,high,6,2,33.3,7.814,4.833333333333333,3.6666666666666665
+ReAct,low,6,6,100.0,1.5908333333333333,2.0,1.0
+ReAct,medium,6,5,83.3,3.4451666666666667,4.0,3.0
+Tree-of-Thoughts,high,6,2,33.3,33.009166666666665,7.0,3.0
+Tree-of-Thoughts,low,6,6,100.0,24.350333333333335,5.0,1.6666666666666667
+Tree-of-Thoughts,medium,6,4,66.7,28.773,6.833333333333333,2.8333333333333335
